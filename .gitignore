@@ -1,3 +1,5 @@
 *.dat
+
 results/
+! do not ignore
 
